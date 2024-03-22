@@ -15,7 +15,7 @@ public class Exam {
         System.out.println(sumEvenNumbers(sumNumbers));
         double sideLength = 4;
         System.out.println(calculateCube(sideLength));
-        System.out.println(characterCounters("Yellow"));
+        System.out.println(characterCounters("Mellow"));
         System.out.println(isPalindrome("Madam"));
 
 
